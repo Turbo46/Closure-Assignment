@@ -1,0 +1,12 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "1. Create a file named `util.js`.\r 2. In that file, export a function named `cut`.\r 3. Make a file called `index.js` where you will import this `cut` function and use it.\r 4. It should take a number as input, we can call it `n`.\r 5. It should return a function.\r 6. This returned function should take a string as input, and return the first `n` characters.\r 7. If `n` is negative, it should return the last `n` characters.\r 8. If `n` is zero, it should return the same string.",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
